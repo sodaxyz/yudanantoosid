@@ -53,7 +53,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .user-picture {
-	border-style: solid;
+	border-style: none;
 	border-width: 5px;
 	border-color: #292929;
 	margin-top: 20px;
