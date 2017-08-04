@@ -118,7 +118,6 @@ i {
 	width: 100%;
 	display: block;
 	padding: 10px;
-	margin: 5px auto 0;
 	height: 50px;
 }
 
@@ -137,7 +136,4 @@ div p {
 
 td {
 	margin: 0 20px 0 20px;
-}
-.wrap {
-	background: #636;
 }
