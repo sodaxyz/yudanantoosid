@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #user-name {
-	font-size: 3em;
+	font-size: 2em;
 }
 
 .user-description {
@@ -115,9 +115,10 @@ i {
 
 .footer {
 	background-color: #F5F5F5;
-	display: block;
 	width: 100%;
+	display: block;
 	padding: 10px;
+	margin: 10px auto 0;
 	height: 50px;
 }
 
@@ -136,4 +137,7 @@ div p {
 
 td {
 	margin: 0 20px 0 20px;
+}
+.wrap {
+	background: #636;
 }
