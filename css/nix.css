@@ -142,3 +142,13 @@ td {
  * Share box
  */
 
+.share-button {
+	margin: 50px 0 5px 0;
+	overflow: hidden;
+}
+
+.fb-share-button {
+	float: left;
+	margin-right: 5px;
+	bottom: 1px;
+}
