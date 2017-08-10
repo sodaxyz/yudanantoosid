@@ -105,7 +105,6 @@ i {
 .post-comments {
 	padding-top: 10px;
 	border-top-style: solid;
-	margin-top: 3px;
 }
 
 .wrapper {
@@ -140,7 +139,5 @@ td {
 }
 
 .ad {
-	background: #646;
-	width: 100%;
-	margin: 10px auto 10px;
+	margin: 15px auto 15px;
 }
